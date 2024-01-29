@@ -1,0 +1,4 @@
+db.customer.insertOne({
+    _id = "ahsan",
+    name = "Muhammad Ahsan Nasrulloh",
+});

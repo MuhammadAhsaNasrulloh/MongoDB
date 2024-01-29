@@ -1,0 +1,13 @@
+db.produk.insertMany([
+    {
+        _id : 1,
+        name: "Indomie Ayam Bawang",
+        harga: new NumberLong("2500")
+    },
+    {
+        _id : 2,
+        name: "Kopi Kapal Api",
+        harga : new NumberLong("1500")
+    }
+]);
+
